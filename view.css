@@ -1,0 +1,5 @@
+.tree-item-count
+{
+	color: var(--text-faint);
+	font-size: var(--font-ui-small);
+}
